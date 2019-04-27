@@ -8,7 +8,7 @@
 </settings>
 <grid distance="5" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
@@ -149,7 +149,7 @@
 <wire x1="55.88" y1="35.56" x2="0" y2="35.56" width="0" layer="20"/>
 <wire x1="0" y1="35.56" x2="0" y2="0" width="0" layer="20"/>
 <hole x="2.54" y="33.02" drill="3.0988"/>
-<wire x1="14.224" y1="4.826" x2="21.082" y2="4.826" width="0.2032" layer="112"/>
+<wire x1="14.224" y1="4.826" x2="21.082" y2="4.826" width="0.2032" layer="121"/>
 <text x="14.097" y="3.81" size="0.6096" layer="121" font="vector" ratio="20">GND</text>
 <text x="16.891" y="3.81" size="0.6096" layer="121" font="vector" ratio="20">VIN</text>
 <text x="19.304" y="3.81" size="0.6096" layer="121" font="vector" ratio="20">BASE</text>
@@ -164,11 +164,11 @@
 <wire x1="34.417" y1="4.826" x2="41.275" y2="4.826" width="0.2032" layer="121"/>
 <text x="35.052" y="3.81" size="0.6096" layer="121" font="vector" ratio="20">T1</text>
 <text x="40.005" y="3.81" size="0.6096" layer="121" font="vector" ratio="20">T2</text>
-<wire x1="7.493" y1="4.826" x2="8.255" y2="4.826" width="0.2032" layer="112"/>
+<wire x1="7.493" y1="4.826" x2="8.255" y2="4.826" width="0.2032" layer="121"/>
 <wire x1="6.731" y1="4.826" x2="7.493" y2="4.826" width="0.2032" layer="121"/>
-<wire x1="7.493" y1="4.826" x2="7.493" y2="5.588" width="0.2032" layer="112"/>
+<wire x1="7.493" y1="4.826" x2="7.493" y2="5.588" width="0.2032" layer="121"/>
 <wire x1="7.493" y1="4.064" x2="7.493" y2="4.826" width="0.2032" layer="121"/>
-<wire x1="9.271" y1="4.826" x2="10.795" y2="4.826" width="0.2032" layer="112"/>
+<wire x1="9.271" y1="4.826" x2="10.795" y2="4.826" width="0.2032" layer="121"/>
 <wire x1="45.593" y1="4.826" x2="46.355" y2="4.826" width="0.2032" layer="121"/>
 <wire x1="44.831" y1="4.826" x2="45.593" y2="4.826" width="0.2032" layer="121"/>
 <wire x1="45.593" y1="4.826" x2="45.593" y2="5.588" width="0.2032" layer="121"/>
